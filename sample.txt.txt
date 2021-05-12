@@ -1,4 +1,8 @@
 Just adding a line to the sample file
+<<<<<<< HEAD
 
 here we go again
 
+=======
+second line here we go
+>>>>>>> main
