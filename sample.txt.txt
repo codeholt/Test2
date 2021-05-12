@@ -1,1 +1,2 @@
 Just adding a line to the sample file
+second line here we go
